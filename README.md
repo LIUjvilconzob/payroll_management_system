@@ -275,7 +275,7 @@ This project provided practical experience in:
 
 ## Author
 
-**Jj**
+**John Marlo Liu**
 
 **Bachelor of Science in Computer Science**  
 University of Mindanao
